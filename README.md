@@ -15,8 +15,10 @@ SobiPDF w ustawieniach aplikacji domyślnych Windows.
 ## Aktualizacja z programu
 
 1. Otwórz **Ustawienia → Aktualizacje → Sprawdź teraz**.
-2. Wybierz **Pobierz aktualizację**.
-3. Zamknij wszystkie okna SobiPDF i ponownie otwórz PDF.
+2. Wybierz **Zainstaluj**. Program zapyta o zapis zmienionych PDF-ów, zamknie okna i uruchomi nową wersję.
+
+W wersji 0.8.0 wybierz najpierw **Pobierz aktualizację**, a następnie **Zainstaluj teraz** w oknie aktualizatora.
+Paczka aktualizacji z 0.8.0 ma około **2,7 MB**.
 
 Po udanej aktualizacji program jednorazowo pokaże poprzedni i nowy numer wersji.
 Ustawienia i dokumenty pozostają zachowane.
